@@ -10,4 +10,4 @@ Description of files:
 
 Test program
 
-AutoTransQFtest.m: test program of main function 'AutoTrans.m'
+AutoTransQFtest.m: test program of main function 'AutoTransQF.m'
